@@ -13,7 +13,7 @@
     "lib/*.js"
   ],
   "main": "lib/main.js",
-  "name": "midnight-mirror",
+  "name": "arval",
   "scripts": {
     "ci": "./scripts/ci",
     "husky:precommit": "./scripts/husky-precommit",
